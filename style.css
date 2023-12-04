@@ -1,14 +1,8 @@
 * {
-  all: unset;
-
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
   font-family: verdana, sans-serif;
-}
-
-title {
-  display: none;
 }
 
 body {
