@@ -4,9 +4,9 @@
   "start_url": "/south-africa/",
   "icons": [
     {
-      "src": "icon.webp",
+      "src": "images/south-africa.png",
       "sizes": "48x48",
-      "type": "image/webp"
+      "type": "image/png"
     }
   ],
   "display": "standalone"
