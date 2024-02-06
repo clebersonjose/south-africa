@@ -1,0 +1,12 @@
+{
+  "name": "South Africa",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon.webp",
+      "sizes": "48x48",
+      "type": "image/webp"
+    }
+  ],
+  "display": "standalone"
+}
