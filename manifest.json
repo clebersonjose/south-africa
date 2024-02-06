@@ -1,6 +1,7 @@
 {
   "name": "South Africa",
-  "start_url": "/",
+  "scope": "/south-africa/",
+  "start_url": "/south-africa/",
   "icons": [
     {
       "src": "icon.webp",
