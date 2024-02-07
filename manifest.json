@@ -7,6 +7,11 @@
       "src": "images/south-africa.png",
       "sizes": "48x48",
       "type": "image/png"
+    },
+    {
+      "src": "images/south-africa.png",
+      "sizes": "144x144",
+      "type": "image/png"
     }
   ],
   "display": "standalone"
